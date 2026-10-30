@@ -3,7 +3,7 @@ Descripción
 
 AprendeApp es una aplicación móvil desarrollada en Kotlin que permite gestionar y consultar recursos educativos mediante una API dinámica, utilizando la arquitectura MVC.
 
-Funcionalidades
+FUNCIONALIDADES 
 
 * Registro e inicio de sesión.
 * Roles de Estudiante y Docente.
@@ -11,7 +11,8 @@ Funcionalidades
 * Gestión de favoritos y calificaciones.
 * Operaciones CRUD para docentes.
 
-Tecnologías
+TECNOLOGIAS 
 
 Kotlin, Android Studio, API REST, JSON y GitHub.
-Video demostrativo
+
+VIDEO DEMOSTRATIVO
